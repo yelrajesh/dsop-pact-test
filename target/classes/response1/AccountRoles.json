@@ -1,0 +1,61 @@
+{
+	"responseStatus": "complete",
+	"roles": [
+		{
+			"permission": "rightToUseAlone",
+			"identifier": {
+				"countryOfResidence": "NO",
+				"value": "21118048463",
+				"type": "nationalIdentityNumber"
+			},
+			"name": "TSTFREMSTAD",
+			"startDate": "2014-10-22",
+			"endDate": "",
+			"postalAddress": {
+				"postCode": "7550",
+				"type": "residential",
+				"streetName": "TSTSAUGEN",
+				"buildingNumber": "13",
+				"townName": "",
+				"country": "NO",
+				"addressLines": [
+					"TSTSAUGEN13,7550TSTLVIK"
+				]
+			},
+			"electronicAddresses": [
+				{
+					"type": "phoneNumber",
+					"value": "93xxxx62"
+				}
+			]
+		},
+		{
+			"permission": "rightToUseAlone",
+			"identifier": {
+				"countryOfResidence": "NO",
+				"value": "07077744333",
+				"type": "nationalIdentityNumber"
+			},
+			"name": "TSTSOLEM",
+			"startDate": "2014-10-22",
+			"endDate": "",
+			"postalAddress": {
+				"postCode": "7550",
+				"type": "residential",
+				"streetName": "TSTHAUGEN",
+				"buildingNumber": "13",
+				"townName": "",
+				"country": "NO",
+				"addressLines": [
+					"TSTSAUGEN13,7550TSTLVIK"
+				]
+			},
+			"electronicAddresses": [
+				{
+					"type": "phoneNumber",
+					"value": "9xxxx269"
+				}
+			]
+		}
+	]
+}

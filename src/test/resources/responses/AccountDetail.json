@@ -1,0 +1,57 @@
+{
+  "responseStatus": "complete",
+  "account": {
+    "balances": [
+      {
+        "amount": 20.2,
+        "creditLineIncluded": false,
+        "creditLineAmount": 10.9,
+        "registered": "2019-05-20T10:23:38",
+        "creditLineCurrency": "NOK",
+        "type": "availableBalance",
+        "creditDebitIndicator": "credit"
+      }
+    ],
+    "accountReference": "MFQ9dT2XYx8_aTNftDCtMbvZacI__3VVyM9ZZBOo4_Zr",
+    "primaryOwner": {
+      "identifier": {
+        "countryOfResidence": "NO",
+        "type": "nationalIdentityNumber",
+        "value": "10108054242"
+      },
+      "postalAddress": {
+        "country": "NO",
+        "streetName": "trysilgata",
+        "townName": "Oslo",
+        "buildingNumber": "2",
+        "postCode": "1598",
+        "addressLines": [
+          "bondes vei 4"
+        ],
+        "type": "residential"
+      },
+      "endDate": "2010-05-20",
+      "name": "Boomsma Erika",
+      "permission": "rightToUseAlone",
+      "electronicAddresses": [
+        {
+          "type": "phoneNumber",
+          "value": "96711125"
+        }
+      ],
+      "startDate": "2010-05-20"
+    },
+    "servicer": {
+      "identifier": {
+        "countryOfResidence": "NO",
+        "type": "countryIdentificationCode",
+        "value": "123456879"
+      },
+      "name": "DNB"
+    },
+    "accountIdentifier": "78770517388",
+    "currency": "NOK",
+    "type": "loanAccount",
+    "status": "enabled"
+  }
+}

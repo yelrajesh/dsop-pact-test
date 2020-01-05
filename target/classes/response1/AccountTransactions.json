@@ -1,0 +1,926 @@
+{
+	"responseStatus": "complete",
+	"transactions": [
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1461739912",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-08-28T10:23:38",
+			"valueDate": "2019-08-28T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.TelenorNorge",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-08-27T10:23:38",
+			"amount": -262.50,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "Feecreatedbybundling",
+			"references": [
+				{
+					"value": "1600075407",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-08-30T10:23:38",
+			"valueDate": "2019-09-01T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "GBNOTA",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate":null,
+				"expiryDate":null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-08-30T10:23:38",
+			"amount": -112.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "",
+			"references": [
+				{
+					"value": "",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "credit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-02T10:23:38",
+			"valueDate": "2019-09-02T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "S1033825-0072262124",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-02T10:23:38",
+			"amount": 1200000.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1425728377",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-02T10:23:38",
+			"valueDate": "2019-09-02T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.Momsmaj-juni2019",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-02T10:23:38",
+			"amount": -1110019.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1457131029",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-05T10:23:38",
+			"valueDate": "2019-09-05T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.1103981264",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-04T10:23:38",
+			"amount": -262.50,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "",
+			"references": [
+				{
+					"value": "679880756",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "credit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-10T10:23:38",
+			"valueDate": "2019-09-10T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "NO030121197",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-10T10:23:38",
+			"amount": 6960.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1470033441",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-12T10:23:38",
+			"valueDate": "2019-09-12T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.5680nardo",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-11T10:23:38",
+			"amount": -21604.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "Feecreatedbybundling",
+			"references": [
+				{
+					"value": "1600148057",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-09-30T10:23:38",
+			"valueDate": "2019-10-01T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "GBNOTA",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-09-30T10:23:38",
+			"amount": -112.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1494066838",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-04T10:23:38",
+			"valueDate": "2019-10-04T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.4210071702",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-03T10:23:38",
+			"amount": -4073.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1494067037",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-04T10:23:38",
+			"valueDate": "2019-10-04T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.4210071900",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-03T10:23:38",
+			"amount": -18051.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "",
+			"references": [
+				{
+					"value": "",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "credit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-10T10:23:38",
+			"valueDate": "2019-10-10T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "S1033825-0074138182",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-10T10:23:38",
+			"amount": 855000.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1480263756",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-10T10:23:38",
+			"valueDate": "2019-10-10T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.Momsjuli-aug2019",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-10T10:23:38",
+			"amount": -928461.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1498247777",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-11T10:23:38",
+			"valueDate": "2019-10-11T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.Fakt1269",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-10T10:23:38",
+			"amount": -500.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1498872414",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-14T10:23:38",
+			"valueDate": "2019-10-14T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.1104114057",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-13T10:23:38",
+			"amount": -654.10,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1498914074",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-14T10:23:38",
+			"valueDate": "2019-10-14T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.PWC",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-13T10:23:38",
+			"amount": -3219.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1506443138",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-24T10:23:38",
+			"valueDate": "2019-10-24T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.16089435Vegsamot",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-23T10:23:38",
+			"amount": -146.40,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1503527299",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-25T10:23:38",
+			"valueDate": "2019-10-25T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.41306644",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-24T10:23:38",
+			"amount": -1485.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1509777828",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-31T10:23:38",
+			"valueDate": "2019-10-31T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.41312282",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-30T10:23:38",
+			"amount": -125.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "Feecreatedbybundling",
+			"references": [
+				{
+					"value": "1600078820",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-10-31T10:23:38",
+			"valueDate": "2019-11-01T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "GBNOTA",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-31T10:23:38",
+			"amount": -112.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1506443734",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-11-01T10:23:38",
+			"valueDate": "2019-11-01T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.39504421",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-10-31T10:23:38",
+			"amount": -1513.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "DANSKEBANKTELESERVICETRANS.",
+			"references": [
+				{
+					"value": "1501880754",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-11-04T10:23:38",
+			"valueDate": "2019-11-04T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBT.1104256079",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-11-03T10:23:38",
+			"amount": -262.50,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "Outgoingforeignpayments",
+			"references": [
+				{
+					"value": "Outgoingforeignpayments",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-11-12T10:23:38",
+			"valueDate": "2019-11-12T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "DBTS1521454198",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-11-12T10:23:38",
+			"amount": -1080.00,
+			"currency": "NOK"
+		},
+		{
+			"transactionIdentifier": "Feecreatedbybundling",
+			"references": [
+				{
+					"value": "1600002237",
+					"type": "archiveReference"
+				}
+			],
+			"creditDebitIndicator": "debit",
+			"reversalIndicator": false,
+			"status": "booked",
+			"transactionCode": {
+				"domain": "accountManagement",
+				"family": "additionalMiscellaneousCreditOperations",
+				"subFamily": "valueDate",
+				"freeText": ""
+			},
+			"bookingDate": "2019-11-29T10:23:38",
+			"valueDate": "2019-12-01T10:23:38",
+			"counterParties": null,
+			"additionalInfo": "GBNOTA",
+			"currencyExchange": null,
+			"merchant": "",
+			"paymentCard": {
+				"cardIdentifier": "",
+				"holderName": "",
+				"startDate": null,
+				"expiryDate": null,
+				"cardIssuerName": "",
+				"type": "creditCard",
+				"cardIssuerIdentifier": {
+					"countryOfResidence": "",
+					"value": "",
+					"type": "nationalIdentityNumber"
+				}
+			},
+			"registered": "2019-12-01T10:23:38",
+			"amount": -12.00,
+			"currency": "NOK"
+		}
+	],
+	"links": []
+}

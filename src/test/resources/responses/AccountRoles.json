@@ -1,0 +1,30 @@
+{
+  "roles": [
+    {
+      "identifier": {
+        "countryOfResidence": "NO",
+        "type": "nationalIdentityNumber",
+        "value": "10108054242"
+      },
+      "postalAddress": {
+        "country": "NO",
+        "streetName": "trysilgata",
+        "townName": "Oslo",
+        "buildingNumber": "2",
+        "postCode": "1598",
+        "type": "residential"
+      },
+      "endDate": "2010-05-20",
+      "name": "Boomsma Erika",
+      "electronicAddresses": [
+        {
+          "type": "emailAddress",
+          "value": "test@test.no"
+        }
+      ],
+      "permission": "rightToUseAlone",
+      "startDate": "2010-05-20"
+    }
+  ],
+  "responseStatus": "complete"
+}

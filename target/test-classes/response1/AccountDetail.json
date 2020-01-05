@@ -1,0 +1,45 @@
+{
+	"responseStatus": "complete",
+	"account": {
+		"status": "enabled",
+		"servicer": {
+			"identifier": {
+				"countryOfResidence": "NO",
+				"value": "977074010",
+				"type": "countryIdentificationCode"
+			},
+			"name": "DanskeBankA/S"
+		},
+		"accountIdentifier": "86015140110",
+		"accountReference": "3133121811",
+		"type": "salaryAccount",
+		"currency": "NOK",
+		"name": "TSTAkademikerne",
+		"balances": null,
+		"primaryOwner": {
+			"permission": "rightToUseAlone",
+			"identifier": {
+				"countryOfResidence": "NO",
+				"value": "21118048463",
+				"type": "nationalIdentityNumber"
+			},
+			"name": "TSTFREMSTAD",
+			"startDate": "20141022",
+			"endDate": "",
+			"postalAddress": {
+				"postCode": "7550",
+				"type": null,
+				"streetName": "TSTSHAUGEN",
+				"buildingNumber": "13",
+				"townName": "",
+				"country": "NO",
+				"addressLines": [
+					"TSTSAUGEN13,7550TSTVIK"
+				]
+			},
+			"electronicAddresses": []
+		},
+		"startDate": "20141022",
+		"endDate": ""
+	}
+}

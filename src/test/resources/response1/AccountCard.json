@@ -1,0 +1,18 @@
+{
+	"responseStatus": "complete",
+	"paymentCards": [
+		{
+			"cardIdentifier": "557385XXXXXX0277",
+			"holderName": "TST FREMSTAD",
+			"startDate": "2018-09-04",
+			"expiryDate": "2021-10-31",
+			"cardIssuerName": "Danske Bank A/S",
+			"type": "debit",
+			"cardIssuerIdentifier": {
+				"countryOfResidence": "NO",
+				"value": "977074010",
+				"type": "countryIdentificationCode"
+			}
+		}
+	]
+}
